@@ -1,0 +1,26 @@
+[
+	{
+		"id" : 1,
+		"name" : "Habiganj Express",
+		"image": "hobigonjexpress",
+		"url": "https://www.habiganjexpress.com/"
+	},
+	{
+		"id" : 2,
+		"name" : "Daily Sylhet",
+		"image": "sylhet_daily",
+		"url": "https://dailysylhet.com/"
+	},
+	{
+		"id" : 3,
+		"name" : "Moulvi Bazar Express",
+		"image": "mowlovibazar",
+		"url": "https://moulvibazarexpress.net/"
+	},
+	{
+		"id" : 4,
+		"name" : "Sunamganjer Khobor",
+		"image": "sunamgonj",
+		"url": "https://sunamganjerkhobor.com/"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"id" : 1,
+		"name" : "Uttor Bangla",
+		"image": "rongpur_news",
+		"url": "https://www.uttorbangla.com/"
+	},
+	{
+		"id" : 2,
+		"name" : "Dinajpur News",
+		"image": "dinajpur_news",
+		"url": "https://dinajpurnews.com/"
+	},
+	{
+		"id" : 3,
+		"name" : "Nilphamari Barta",
+		"image": "nilfamari",
+		"url": "https://www.nilphamaribarta.com/"
+	},
+	{
+		"id" : 4,
+		"name" : "Kurigram Barta",
+		"image": "kurigram_live",
+		"url": "https://www.kurigrambarta.com/"
+	}
+]

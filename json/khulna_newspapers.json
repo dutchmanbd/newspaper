@@ -1,0 +1,38 @@
+[
+	{
+		"id" : 1,
+		"name" : "Bagerhat 24",
+		"image": "bagerhat",
+		"url": "https://bagerhat24.com/"
+	},
+	{
+		"id" : 2,
+		"name" : "Matha Bhanga",
+		"image": "mathabanga_cuadanga",
+		"url": "https://www.mathabhanga.com/"
+	},
+	{
+		"id" : 3,
+		"name" : "Gramer Kagoj",
+		"image": "gramernews_joshor",
+		"url": "https://www.gramerkagoj.com/"
+	},
+	{
+		"id" : 4,
+		"name" : "Purbanchal",
+		"image": "purbancol_khulna",
+		"url": "https://purbanchal.com/"
+	},
+	{
+		"id" : 5,
+		"name" : "Magura News",
+		"image": "magura_news",
+		"url": "https://www.maguranews.com/"
+	},
+	{
+		"id" : 6,
+		"name" : "Daily Satkhira",
+		"image": "satkhira_logo",
+		"url": "https://dailysatkhira.com/"
+	}
+]

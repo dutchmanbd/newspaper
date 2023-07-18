@@ -1,0 +1,291 @@
+[
+	{
+		"id" : 1,
+		"name" : "Kaler Kontho",
+		"image": "kalerkontho",
+		"url": "https://www.kalerkantho.com/"
+	},
+	{
+		"id" : 2,
+		"name" : "Prothom Alo",
+		"image": "prothomalo",
+		"url": "https://www.prothomalo.com/"
+	},
+	{
+		"id" : 3,
+		"name" : "Noya Digonto",
+		"image": "noyadigonto",
+		"url": "https://www.dailynayadiganta.com/"
+	},
+	{
+		"id" : 4,
+		"name" : "Jugantor",
+		"image": "jugantor",
+		"url": "https://www.jugantor.com/"
+	},
+	{
+		"id" : 5,
+		"name" : "Bangladesh Protidin",
+		"image": "bangladesh_protidin",
+		"url": "https://www.bd-pratidin.com/"
+	},
+	{
+		"id" : 6,
+		"name" : "BBC Bangla",
+		"image": "bbc_bangla",
+		"url": "https://www.bbc.com/bengali"
+	},
+	{
+		"id" : 7,
+		"name" : "Douche Vele Bangla",
+		"image": "dwbd",
+		"url": "https://www.dw.com/bn"
+	},
+	{
+		"id" : 8,
+		"name" : "Dhaka Post",
+		"image": "dhakajpsot",
+		"url": "https://www.dhakapost.com/"
+	},
+	{
+		"id" : 9,
+		"name" : "Dainik Shiksha",
+		"image": "sikha",
+		"url": "https://m.dainikshiksha.com/"
+	},
+	{
+		"id" : 10,
+		"name" : "Anondobazar",
+		"image": "anondobazar",
+		"url": "https://www.anandabazar.com/"
+	},
+	{
+		"id" : 11,
+		"name" : "Dhaka Times",
+		"image": "dhaka_times",
+		"url": "https://www.dhakatimes24.com/"
+	},
+	{
+		"id" : 12,
+		"name" : "Amader Somoy",
+		"image": "amader_somoy",
+		"url": "https://www.dainikamadershomoy.com/"
+	},
+	{
+		"id" : 13,
+		"name" : "NTV",
+		"image": "ntvnewsbd",
+		"url": "https://www.ntvbd.com/"
+	},
+	{
+		"id" : 14,
+		"name" : "Bangla Tribune",
+		"image": "bangla_tribune",
+		"url": "https://www.banglatribune.com/"
+	},
+	{
+		"id" : 15,
+		"name" : "Dhaka Tribune",
+		"image": "dk_bangla",
+		"url": "https://bangla.dhakatribune.com/"
+	},
+	{
+		"id" : 16,
+		"name" : "Somokal",
+		"image": "somokal",
+		"url": "https://samakal.com/"
+	},
+	{
+		"id" : 16,
+		"name" : "Inqilab",
+		"image": "inqilab",
+		"url": "https://m.dailyinqilab.com/"
+	},
+	{
+		"id" : 17,
+		"name" : "Ittefaq",
+		"image": "ittefaq",
+		"url": "https://www.ittefaq.com.bd/"
+	},
+	{
+		"id" : 18,
+		"name" : "Chakrir Khobor",
+		"image": "cakrirkhobor",
+		"url": "https://www.chakrirkhoborbd.com/"
+	},
+	{
+		"id" : 19,
+		"name" : "Govt Job Box",
+		"image": "govlologo",
+		"url": "https://govtjobbox.com/"
+	},
+	{
+		"id" : 20,
+		"name" : "RTV",
+		"image": "rtv_online",
+		"url": "https://www.rtvonline.com/"
+	},
+	{
+		"id" : 21,
+		"name" : "Ajker Potrika",
+		"image": "ajker_potrika",
+		"url": "https://www.ajkerpatrika.com/"
+	},
+	{
+		"id" : 22,
+		"name" : "Jamuna News",
+		"image": "jomunanews",
+		"url": "https://www.jamuna.tv/"
+	},
+	{
+		"id" : 23,
+		"name" : "Dainik Purbo Kone",
+		"image": "purbokon",
+		"url": "https://dainikpurbokone.net/"
+	},
+	{
+		"id" : 24,
+		"name" : "Daily Campus",
+		"image": "dailycampus",
+		"url": "https://thedailycampus.com/"
+	},
+	{
+		"id" : 25,
+		"name" : "Daily Janakantha",
+		"image": "jonokhonto",
+		"url": "https://www.dailyjanakantha.com/"
+	},
+	{
+		"id" : 26,
+		"name" : "Bangla News 24",
+		"image": "banglanews24",
+		"url": "https://www.banglanews24.com/"
+	},
+	{
+		"id" : 27,
+		"name" : "BD News 24",
+		"image": "bdnews24_",
+		"url": "https://bangla.bdnews24.com/"
+	},
+	{
+		"id" : 28,
+		"name" : "Manob Kantha",
+		"image": "manobkontho",
+		"url": "https://www.manobkantha.com.bd/"
+	},
+	{
+		"id" : 29,
+		"name" : "Somoy News",
+		"image": "somoy_news",
+		"url": "https://www.somoynews.tv/"
+	},
+	{
+		"id" : 30,
+		"name" : "Probashir Diganta",
+		"image": "probashdigontoo",
+		"url": "https://www.probashirdiganta.com/"
+	},
+	{
+		"id" : 31,
+		"name" : "DMP News",
+		"image": "dmpnews",
+		"url": "https://dmpnews.org/"
+	},
+	{
+		"id" : 32,
+		"name" : "Bhorer Kagoj",
+		"image": "bhorer_kagoj",
+		"url": "https://www.bhorerkagoj.com/"
+	},
+	{
+		"id" : 33,
+		"name" : "Share News 24",
+		"image": "sharenews",
+		"url": "https://www.sharenews24.com/"
+	},
+	{
+		"id" : 34,
+		"name" : "Jai Jai Din",
+		"image": "jayjaydin",
+		"url": "https://www.jaijaidinbd.com/"
+	},
+	{
+		"id" : 35,
+		"name" : "Alokito Bangladesh",
+		"image": "alokitobangladesh",
+		"url": "https://www.alokitobangladesh.com/"
+	},
+	{
+		"id" : 36,
+		"name" : "Bonik Barta",
+		"image": "boinikbarta",
+		"url": "https://bonikbarta.net/"
+	},
+	{
+		"id" : 37,
+		"name" : "Sara Bangla",
+		"image": "sarabangla",
+		"url": "https://sarabangla.net/"
+	},
+	{
+		"id" : 38,
+		"name" : "Pavilion",
+		"image": "pavalion",
+		"url": "https://pavilion.com.bd/bn"
+	},
+	{
+		"id" : 39,
+		"name" : "Jago News",
+		"image": "jagonews",
+		"url": "https://www.jagonews24.com/"
+	},
+	{
+		"id" : 40,
+		"name" : "Somoyer Konthosor",
+		"image": "somoyer_konthosor",
+		"url": "https://www.somoyerkonthosor.com/"
+	},
+	{
+		"id" : 41,
+		"name" : "Priyo",
+		"image": "priyo_logo",
+		"url": "https://news.priyo.com/"
+	},
+	{
+		"id" : 42,
+		"name" : "Manob Zamin",
+		"image": "manobjomin",
+		"url": "https://mzamin.com/"
+	},
+	{
+		"id" : 43,
+		"name" : "Dainik Azadi",
+		"image": "azadi",
+		"url": "https://dainikazadi.net/"
+	},
+	{
+		"id" : 44,
+		"name" : "Daily Karatoa",
+		"image": "koirtowa",
+		"url": "https://www.dailykaratoa.com/"
+	},
+	{
+		"id" : 45,
+		"name" : "Tech Shohor",
+		"image": "techsohor",
+		"url": "https://techshohor.com/"
+	},
+	{
+		"id" : 46,
+		"name" : "Bangladesh Songbad Songtha",
+		"image": "bss_news",
+		"url": "https://www.bssnews.net/bangla/"
+	},
+	{
+		"id" : 4,
+		"name" : "Rising BD",
+		"image": "risingbd",
+		"url": "https://www.risingbd.com/"
+	}
+
+]

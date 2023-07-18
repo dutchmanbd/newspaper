@@ -1,0 +1,122 @@
+[
+	{
+		"id" : 1,
+		"name" : "Dhaka",
+		"image": "dhaka",
+		"division": "DHAKA"
+	},
+	{
+		"id" : 2,
+		"name" : "Chittagong",
+		"image": "ctg",
+		"division": "CHITTAGONG"
+	},
+	{
+		"id" : 3,
+		"name" : "Khulna",
+		"image": "khulna",
+		"division": "KHULNA"
+	},
+	{
+		"id" : 4,
+		"name" : "Borishal",
+		"image": "borishal",
+		"division": "BORISHAL"
+	},
+	{
+		"id" : 5,
+		"name" : "Rajsahi",
+		"image": "rajsahi",
+		"division": "RAJSAHI"
+	},
+	{
+		"id" : 6,
+		"name" : "Sylhet",
+		"image": "sylhet",
+		"division": "SYLHET"
+	},
+	{
+		"id" : 7,
+		"name" : "Rongpur",
+		"image": "rongpur",
+		"division": "RONGPUR"
+	},
+	{
+		"id" : 8,
+		"name" : "Maymansing",
+		"image": "maymansing",
+		"division": "MAYMANSING"
+	},
+	{
+		"id" : 9,
+		"name" : "Daily Star",
+		"image": "dailystar",
+		"url": "https://www.thedailystar.net/"
+	},
+	{
+		"id" : 10,
+		"name" : "Daily Sun",
+		"image": "daily_sun",
+		"url": "https://www.daily-sun.com/"
+	},
+	{
+		"id" : 11,
+		"name" : "Independent BD",
+		"image": "independent_bd",
+		"url": "https://m.theindependentbd.com/"
+	},
+	{
+		"id" : 12,
+		"name" : "Dhaka Tribune",
+		"image": "dhaka_tribune",
+		"url": "https://www.dhakatribune.com/"
+	},
+	{
+		"id" : 13,
+		"name" : "Bangla News 24",
+		"image": "bangla_news_24",
+		"url": "https://www.banglanews24.com/english/"
+	},
+	{
+		"id" : 14,
+		"name" : "BD News 24",
+		"image": "bdnews24",
+		"url": "https://bdnews24.com/"
+	},
+	{
+		"id" : 15,
+		"name" : "New Age BD",
+		"image": "new_age",
+		"url": "https://www.newagebd.net/"
+	},
+	{
+		"id" : 16,
+		"name" : "Observer BD",
+		"image": "observer_eng",
+		"url": "https://www.observerbd.com/"
+	},
+	{
+		"id" : 17,
+		"name" : "The Bangladesh Today",
+		"image": "bangladesh_today",
+		"url": "https://thebangladeshtoday.com/"
+	},
+	{
+		"id" : 18,
+		"name" : "Prothom Alo",
+		"image": "prothom_alo_eng",
+		"url": "https://en.prothomalo.com/"
+	},
+	{
+		"id" : 19,
+		"name" : "The Financial Express",
+		"image": "financial_express_bd",
+		"url": "https://thefinancialexpress.com.bd/"
+	},
+	{
+		"id" : 20,
+		"name" : "Bangladesh Monitor",
+		"image": "monitor",
+		"url": "https://bangladeshmonitor.com.bd/"
+	}
+]

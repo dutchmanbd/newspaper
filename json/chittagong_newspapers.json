@@ -1,0 +1,38 @@
+[
+	{
+		"id" : 1,
+		"name" : "Dainik Purbokone",
+		"image": "purbokon",
+		"url": "https://dainikpurbokone.net/"
+	},
+	{
+		"id" : 2,
+		"name" : "Comillar Kagoj",
+		"image": "comulla_kagoj",
+		"url": "https://comillarkagoj.com/"
+	},
+	{
+		"id" : 3,
+		"name" : "Brahmanbaria Times",
+		"image": "brahmanbariatime_",
+		"url": "https://brahmanbariatimes.com/"
+	},
+	{
+		"id" : 4,
+		"name" : "Chandpur Times",
+		"image": "chandpur_times",
+		"url": "https://chandpurtimes.com/"
+	},
+	{
+		"id" : 5,
+		"name" : "Lakshmipur 24",
+		"image": "lokhipur_news24",
+		"url": "https://www.lakshmipur24.com/"
+	},
+	{
+		"id" : 6,
+		"name" : "Noakhali Somachar",
+		"image": "noakhli",
+		"url": "https://www.noakhalisomachar.com/"
+	}
+]

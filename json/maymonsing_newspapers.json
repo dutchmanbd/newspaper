@@ -1,0 +1,26 @@
+[
+	{
+		"id" : 1,
+		"name" : "Mymensingh Pratidin",
+		"image": "mymensingh_protidin",
+		"url": "https://www.mymensinghpratidin.com/"
+	},
+	{
+		"id" : 2,
+		"name" : "Netrokona Songbad",
+		"image": "netrokona_daily",
+		"url": "https://netrokonasongbad.com/"
+	},
+	{
+		"id" : 3,
+		"name" : "Ajker Jamalpur",
+		"image": "jamalpur_ajkernews",
+		"url": "https://ajkerjamalpur.com/"
+	},
+	{
+		"id" : 4,
+		"name" : "Sherpur Times",
+		"image": "sherpur_times",
+		"url": "https://sherpurtimes.com/"
+	}
+]

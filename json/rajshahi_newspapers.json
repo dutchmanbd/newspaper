@@ -1,0 +1,26 @@
+[
+	{
+		"id" : 1,
+		"name" : "Sonali Sangbad",
+		"image": "rajsahi_sonalisongbad",
+		"url": "https://sonalisangbad.com/"
+	},
+	{
+		"id" : 2,
+		"name" : "Dainik Bogura",
+		"image": "bogura_news",
+		"url": "https://www.dainikbogura.com/"
+	},
+	{
+		"id" : 3,
+		"name" : "Sirajganj Kantho",
+		"image": "sirajgonj_news",
+		"url": "https://sirajganjkantho.news/"
+	},
+	{
+		"id" : 4,
+		"name" : "Pabna News",
+		"image": "pabna_news",
+		"url": "https://newspabna.com/"
+	}
+]

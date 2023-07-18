@@ -1,0 +1,38 @@
+[
+	{
+		"id" : 1,
+		"name" : "Narayanganj Live",
+		"image": "narayngonjlive",
+		"url": "https://www.livenarayanganj.com/"
+	},
+	{
+		"id" : 2,
+		"name" : "Daily Gazipur News",
+		"image": "gazipurnews",
+		"url": "https://dailygazipurnews.com/"
+	},
+	{
+		"id" : 3,
+		"name" : "Kishoreganj News",
+		"image": "kishorgonjnews",
+		"url": "https://kishoreganjnews.com/"
+	},
+	{
+		"id" : 4,
+		"name" : "Narsingdi Times",
+		"image": "norshindi_times",
+		"url": "https://narsingditimes.com/"
+	},
+	{
+		"id" : 5,
+		"name" : "Daily Rajbari News",
+		"image": "rajbari_news",
+		"url": "https://www.dailyrajbarinews.com/"
+	},
+	{
+		"id" : 6,
+		"name" : "Tangail News",
+		"image": "tangail_news",
+		"url": "https://www.newstangail.com/"
+	}
+]

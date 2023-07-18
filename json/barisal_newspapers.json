@@ -1,0 +1,26 @@
+[
+	{
+		"id" : 1,
+		"name" : "Borishal Time",
+		"image": "borishal_time",
+		"url": "https://www.barishaltimes.com/"
+	},
+	{
+		"id" : 2,
+		"name" : "Bhola News",
+		"image": "bolanews24",
+		"url": "https://www.bholanews.com/"
+	},
+	{
+		"id" : 3,
+		"name" : "Daily Matobad",
+		"image": "jalokati_alorpotidin",
+		"url": "https://dailymatobad.com/"
+	},
+	{
+		"id" : 4,
+		"name" : "Pirojpur Kantho",
+		"image": "pirojpur_khonto",
+		"url": "https://pirojpurkantho.com/"
+	}
+]
