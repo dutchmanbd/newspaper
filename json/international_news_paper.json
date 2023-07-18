@@ -30,4 +30,196 @@
 		"image": "aljajira",
 		"url": "https://www.aljazeera.com/"
 	},
+	{
+		"id" : 6,
+		"name" : "Daily Mail",
+		"image": "dailymail",
+		"url": "https://www.dailymail.co.uk/home/index.html"
+	},
+	{
+		"id" : 7,
+		"name" : "Independent",
+		"image": "independent",
+		"url": "https://www.independent.co.uk/"
+	},
+	{
+		"id" : 8,
+		"name" : "Washington Post",
+		"image": "washingtonpost",
+		"url": "https://www.washingtonpost.com/"
+	},
+	{
+		"id" : 9,
+		"name" : "USA Today",
+		"image": "usatoday",
+		"url": "https://www.usatoday.com/"
+	},
+	{
+		"id" : 10,
+		"name" : "Google News",
+		"image": "googlenews",
+		"url": "https://news.google.com/"
+	},
+	{
+		"id" : 11,
+		"name" : "Wall Steet",
+		"image": "wallsteet",
+		"url": "https://www.wsj.com/"
+	},
+	{
+		"id" : 12,
+		"name" : "Times of India",
+		"image": "timesindia",
+		"url": "https://timesofindia.indiatimes.com/"
+	},
+	{
+		"id" : 13,
+		"name" : "Daily Mirror",
+		"image": "dailymirror",
+		"url": "https://www.mirror.co.uk/"
+	},
+	{
+		"id" : 14,
+		"name" : "Losangels Time",
+		"image": "losangelstime",
+		"url": "https://www.latimes.com/"
+	},
+	{
+		"id" : 15,
+		"name" : "Fox News",
+		"image": "foxnews",
+		"url": "https://www.foxnews.com/"
+	},
+	{
+		"id" : 16,
+		"name" : "Sky News",
+		"image": "skynews",
+		"url": "https://news.sky.com/"
+	},
+	{
+		"id" : 17,
+		"name" : "Cric Info",
+		"image": "cricinfo",
+		"url": "https://www.espncricinfo.com/"
+	},
+	{
+		"id" : 18,
+		"name" : "Goal",
+		"image": "goal",
+		"url": "https://www.goal.com/en"
+	},
+	{
+		"id" : 19,
+		"name" : "ESPN",
+		"image": "espn",
+		"url": "https://www.espn.com/"
+	},
+	{
+		"id" : 20,
+		"name" : "ESPN",
+		"image": "espn",
+		"url": "https://www.espn.com/"
+	},
+	{
+		"id" : 21,
+		"name" : "Sky Sports",
+		"image": "download",
+		"url": "https://www.skysports.com/"
+	},
+	{
+		"id" : 22,
+		"name" : "Fox Sports",
+		"image": "foxsports",
+		"url": "https://www.foxsports.com/"
+	},
+	{
+		"id" : 23,
+		"name" : "Maraca",
+		"image": "maraca",
+		"url": "https://www.marca.com/en/"
+	},
+	{
+		"id" : 24,
+		"name" : "SB Nation",
+		"image": "sbnation",
+		"url": "https://www.sbnation.com/"
+	},
+	{
+		"id" : 25,
+		"name" : "Euro Sports",
+		"image": "euro_sports",
+		"url": "https://www.eurosport.com/"
+	},
+	{
+		"id" : 26,
+		"name" : "Business Insider",
+		"image": "businessinsider",
+		"url": "https://www.insider.com/"
+	},
+	{
+		"id" : 27,
+		"name" : "Finance Time",
+		"image": "financetime",
+		"url": "https://www.ft.com/"
+	},
+	{
+		"id" : 28,
+		"name" : "CNET",
+		"image": "cnet",
+		"url": "https://www.cnet.com/"
+	},
+	{
+		"id" : 29,
+		"name" : "Tech Crunch",
+		"image": "techcurner",
+		"url": "https://techcrunch.com/"
+	},
+	{
+		"id" : 30,
+		"name" : "The Verge",
+		"image": "veraga",
+		"url": "https://www.theverge.com"
+	},
+	{
+		"id" : 31,
+		"name" : "Financial Express BD",
+		"image": "financial_express_bd",
+		"url": "https://www.financialexpress.com/"
+	},
+	{
+		"id" : 32,
+		"name" : "Engadget",
+		"image": "engadget",
+		"url": "https://www.engadget.com/"
+	},
+	{
+		"id" : 33,
+		"name" : "Gsmarena",
+		"image": "gsmarena",
+		"url": "https://www.gsmarena.com/"
+	},
+	{
+		"id" : 34,
+		"name" : "CNN Money",
+		"image": "cnn_money",
+		"url": "https://edition.cnn.com/business"
+	},
+	{
+		"id" : 35,
+		"name" : "CNBC Busniss",
+		"image": "cnbc_busniss",
+		"url": "https://www.cnbc.com/"
+	},
+	{
+		"id" : 36,
+		"name" : "Phone Arena",
+		"image": "phonearena",
+		"url": "https://www.phonearena.com/"
+	},
+	{
+		"id" : 37,
+		"name" : "XDA",
+		"image": "xda",
+		"url": "https://www.xda-developers.com/"
+	},
 ]
