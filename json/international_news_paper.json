@@ -1,0 +1,33 @@
+// https://raw.githubusercontent.com/dutchmanbd/newspaper/main/images/cnn.png
+[
+	{
+		"id" : 1,
+		"name" : "CNN",
+		"image": "cnn",
+		"url": "https://edition.cnn.com/"
+	},
+	{
+		"id" : 2,
+		"name" : "BBC",
+		"image": "bbcnews",
+		"url": "https://www.bbc.com/news"
+	},
+	{
+		"id" : 3,
+		"name" : "The Gurdian",
+		"image": "thegurdian",
+		"url": "https://www.theguardian.com/international"
+	},
+	{
+		"id" : 4,
+		"name" : "Newyork Times",
+		"image": "newyorktimes",
+		"url": "https://www.nytimes.com/international/"
+	},
+	{
+		"id" : 5,
+		"name" : "Al Jajira",
+		"image": "aljajira",
+		"url": "https://www.aljazeera.com/"
+	},
+]
